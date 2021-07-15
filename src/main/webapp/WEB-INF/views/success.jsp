@@ -8,8 +8,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1> Hi your name is ${useremail}</h1>
-	<h1> Hi your name is ${userpassword}</h1>
+	<h1> Hi your name is ${user.email}</h1>
+	<h1> Hi your password is ${user.password}</h1>
 
 
 </body>
